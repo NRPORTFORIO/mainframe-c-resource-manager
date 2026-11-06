@@ -31,4 +31,9 @@
 - **主要概念**: ログパース、リアルタイム異常検知、自動アラートシステム、AIOps（運用効率化）の思想
 - **役割**: コアシステムが出力する大量のシステムログを自動解析し、障害の予兆（アベンドの危険性）を検知・レポートする運用の自動化
 
+## System Operation Verification ##
+![Wandboxでの動作検証画面](IMG_0211.png)
+<figure>c言語</figure>
 
+![Wandboxでの動作検証画面](IMG_0213.png)
+<figure>Python</figure>
